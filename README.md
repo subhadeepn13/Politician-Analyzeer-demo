@@ -1,6 +1,6 @@
 # 🧠 AI Political Analyzer
 
-**A real-time, AI-powered tool that analyzes public sentiment, credibility, and potential controversies around any politician — using live web content and LLMs.**
+**A real-time, AI-powered tool that analyzes public sentiment, credibility, and potential controversies around any politician**
 
 ---
 
