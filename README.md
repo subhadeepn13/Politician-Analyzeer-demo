@@ -27,7 +27,7 @@
 
 ## 📦 Live Demo
 
-🚀 [Launch the App](https://your-username.streamlit.app) *(replace with actual link)*
+🚀 [Launch the App](https://ai-politician-analyzer-subhadeep.streamlit.app/)
 
 ---
 
