@@ -6,22 +6,13 @@
 
 ## 🔍 Features
 
-- ✅ Real-time news scraping using Google Custom Search
-- 🧠 Sentiment analysis via HuggingFace Transformers
+- ✅ Real-time news scraping from credible websites
+- 🧠 Sentiment analysis 
 - 🕵️‍♂️ Fake news detection (credibility scoring)
 - 🚨 Risk scoring based on scandals, law mentions, and public perception
-- 🧾 AI-generated summaries powered by Claude 3 (via AWS Bedrock)
-- 📊 Interactive charts (Plotly) + downloadable Excel report
+- 🧾 AI-generated summaries 
+- 📊 Interactive charts + downloadable Excel report
 
----
-
-## ⚙️ Built With
-
-- **Streamlit** for interactive UI  
-- **AWS Bedrock + Claude 3** for AI summary  
-- **HuggingFace Transformers** for NLP models  
-- **Google Search API** for live news  
-- **spaCy, pandas, Plotly** for NER + analytics
 
 ---
 
